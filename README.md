@@ -1,35 +1,44 @@
-# Hi there, I'm Dimas Aji 👋
+# Hi there, I'm Dimas Danang Aji 👋
 
-## 🚀 Fullstack Web Developer
+## Fullstack Web Developer
 
-Passionate about building modern web applications with cutting-edge technologies. Currently exploring the world of AI and machine learning integration in web development.
+Web Developer working in higher education environment in Indonesia, specializing in backend and fullstack development. Experienced in building scalable web applications with Node.js and PHP, currently developing modern applications using NestJS and React.
 
-### 🔭 What I'm Working On
-- Building full-stack applications with Next.js and TypeScript
-- Exploring AI/ML integration in web applications
-- Creating responsive and user-friendly interfaces
+### What I'm Working On
+- Developing internal web applications at Universitas Pamulang
+- Building modern applications with NestJS and React
+- API design and database management
+- Exploring AI/ML integration in web development
 
-### 🌱 Currently Learning
+### Currently Learning
 - Artificial Intelligence & Machine Learning
-- Advanced Next.js patterns
-- Cloud architecture and deployment
+- Advanced NestJS patterns
+- Microservices architecture
 
-### 💻 Tech Stack
-
-**Frontend:**
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+### Tech Stack
 
 **Backend:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+**Frontend:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Database:**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools & Others:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
+![Filament](https://img.shields.io/badge/-Filament-FDAE4B?style=flat&logo=laravel&logoColor=black)
 
 ### 📊 GitHub Stats
 
@@ -37,14 +46,20 @@ Passionate about building modern web applications with cutting-edge technologies
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimasAji8&layout=compact&theme=tokyonight&hide_border=true)
 
-### 🔥 GitHub Streak
+###  GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DimasAji8&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-### 📫 Connect With Me
+###  Experience Highlights
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+- **Web Developer** at Lembaga Pengembangan Teknologi Informasi Universitas Pamulang (2025 - Present)
+- **Backend Web Developer** at PT Travedia Terbit Semesta (Aug 2024 - Dec 2024)
+- Certified Programmer by Badan Nasional Sertifikasi Profesi (BNSP)
+
+###  Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-danang-aji-w-i-1b8403304/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ajid0818@gmail.com)
 
 ---
 
