@@ -12,6 +12,7 @@ Web Developer working in higher education environment in Indonesia, specializing
 
 ### Currently Learning
 - Artificial Intelligence & Machine Learning
+- VPS Management & Server Administration
 - Advanced NestJS patterns
 - Microservices architecture
 
@@ -28,19 +29,22 @@ Web Developer working in higher education environment in Indonesia, specializing
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 **Database:**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 **Tools & Others:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
 ![Filament](https://img.shields.io/badge/-Filament-FDAE4B?style=flat&logo=laravel&logoColor=black)
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![Dimas Aji's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimasAji8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
@@ -63,4 +67,4 @@ Web Developer working in higher education environment in Indonesia, specializing
 
 ---
 
-💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
