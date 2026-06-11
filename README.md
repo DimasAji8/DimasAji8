@@ -44,11 +44,6 @@ Web Developer working in higher education environment in Indonesia, specializing
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
 ![Filament](https://img.shields.io/badge/-Filament-FDAE4B?style=flat&logo=laravel&logoColor=black)
 
-###  GitHub Stats
-
-![Dimas Aji's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimasAji8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimasAji8&layout=compact&theme=tokyonight&hide_border=true)
 
 ###  GitHub Streak
 
