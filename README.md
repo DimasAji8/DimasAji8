@@ -59,7 +59,7 @@ Web Developer working in higher education environment in Indonesia, specializing
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-danang-aji-w-i-1b8403304/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ajid0818@gmail.com)
-[!(https://img.shields.io/badge/🌐_Portfolio-dimasaji.tech-0A66C2?style=for-the-badge)](https://dimasaji.tech)
+[![Web](https://img.shields.io/badge/🌐_Portfolio-dimasaji.tech-0A66C2?style=for-the-badge)](https://dimasaji.tech)
 
 ---
 
