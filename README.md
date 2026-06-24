@@ -49,6 +49,14 @@ Web Developer working in higher education environment in Indonesia, specializing
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DimasAji8&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+###  Activity Graph
+
+[![Dimas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DimasAji8&theme=tokyonight&hide_border=true&bg_color=0d1117&color=7aa2f7&point=e0af68&area=true&area_color=7aa2f7&hide_border=true)](https://github.com/DimasAji8)
+
+###  Profile Views
+
+[![Profile Views](https://komarev.com/ghpvc/?username=DimasAji8&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)](https://github.com/DimasAji8)
+
 ###  Experience Highlights
 
 - **Web Developer** at Lembaga Pengembangan Teknologi Informasi Universitas Pamulang (2025 - Present)
