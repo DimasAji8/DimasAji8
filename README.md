@@ -31,8 +31,6 @@ Fullstack Web Developer with 2+ years of experience building academic systems, b
 
 ### GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DimasAji8&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
 [![Dimas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DimasAji8&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&area_color=1f6feb&hide_border=true)](https://github.com/DimasAji8)
 
 ### Connect
