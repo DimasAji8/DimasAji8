@@ -104,7 +104,7 @@ Nov 2024 - Mar 2025
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DimasAji8&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Dimas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DimasAji8&theme=tokyonight&hide_border=true&area=true)](https://github.com/DimasAji8)
+[![Dimas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DimasAji8&theme=github-dark&hide_border=true&area=true)](https://github.com/DimasAji8)
 
 ### Connect With Me
 
